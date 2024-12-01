@@ -44,4 +44,4 @@ The project automates data scraping, cleaning, and analysis for Cleveland condo 
 
 ## Contact
 For questions or further information, please contact:
-* LinkedIn: linkedin.com/in/gayathreegopi
+* LinkedIn: [linkedin.com/in/gayathreegopi](https://linkedin.com/in/gayathreegopi)
