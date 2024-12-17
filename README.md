@@ -1,4 +1,4 @@
-# Cleveland Condos Analysis
+# Marketing Analysis Automation of Cleveland Condos
 This project involves a detailed exploration of Cleveland, Ohio, condo listings scraped from Zillow. The analysis is aimed at uncovering trends, factors driving prices, and insights into the Cleveland condo market.
 
 ## Project Overview
